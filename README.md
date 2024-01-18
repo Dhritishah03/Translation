@@ -1,1 +1,2 @@
 # Translation
+This project is developed to streamline the translation process for Excel files containing diverse languages, with a primary focus on enhancing efficiency and accuracy. Leveraged local and cost-free libraries, including pandas for seamless data manipulation and concurrent.futures for efficient parallel processing, to achieve optimal speed in the translation process. Integrated the deep_translator library to ensure precise translation of text components, resulting in a streamlined and effective solution for transforming multilingual data into English.
